@@ -4,7 +4,7 @@ I'm **Suraj Sambath Kumar**, a **Senior Android Developer** with **9 years of ex
 
 I love learning new things and constantly improving my skills.  
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/surajsambath), [GitHub](https://github.com/SURAJ2600), or reach me via email at **suraj2600@gmail.com**.  
+You can find me on [LinkedIn](https://www.linkedin.com/in/surajsambath), or reach me via email at **suraj2600@gmail.com**.  
 
 ---
 
